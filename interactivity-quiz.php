@@ -1,16 +1,17 @@
 <?php
 /**
- * Plugin Name:       Interactivity Quiz
- * Description:       An interactive block with the Interactivity API
- * Version:           0.1.0
+ * Plugin Name:       Quiz Block
+ * Description:       Create interactive quizzes with this Gutenberg block.
+ * Version:           1.0.0
  * Requires at least: 6.1
  * Requires PHP:      7.0
- * Author:            The WordPress Contributors
+ * Author:            Insaf Inhaam
+ * Author URI:        https://insafinhaam.com/
  * License:           GPL-2.0-or-later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
- * Text Domain:       interactivity-quiz
+ * Text Domain:       quiz-block
  *
- * @package           create-block
+ * @package           quiz-block
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
